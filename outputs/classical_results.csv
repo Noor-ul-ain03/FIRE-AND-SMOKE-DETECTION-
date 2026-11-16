@@ -1,0 +1,5 @@
+model,cv_macro_f1,val_fire_auc,val_fire_f1,val_fire_recall,val_smoke_auc,val_smoke_f1,val_smoke_recall,val_macro_f1
+LogisticRegression,0.765 +/- 0.023,0.856,0.916,0.953,0.76,0.625,0.564,0.77
+RandomForest,0.864 +/- 0.019,0.965,0.967,0.997,0.89,0.772,0.699,0.87
+SVM_RBF,0.843 +/- 0.013,0.882,0.948,0.96,0.861,0.758,0.684,0.853
+HistGradBoosting,0.872 +/- 0.013,0.962,0.975,0.993,0.887,0.764,0.707,0.87

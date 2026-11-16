@@ -1,0 +1,361 @@
+file,actual_fire,actual_smoke,p_fire,p_smoke,decision,needs_human_check
+test_datacluster_000174.jpg,1,0,0.969,0.126,FIRE,False
+test_datacluster_000254.jpg,1,0,0.984,0.089,FIRE,False
+test_datacluster_000359.jpg,1,1,0.988,0.88,FIRE + SMOKE,False
+test_datacluster_000404.jpg,1,0,0.997,0.029,FIRE,False
+test_datacluster_000494.jpg,1,0,0.998,0.033,FIRE,False
+test_datacluster_000573.jpg,1,0,0.986,0.168,FIRE,False
+test_datacluster_000659.jpg,1,0,0.995,0.046,FIRE,False
+test_datacluster_000712.jpg,1,0,0.963,0.159,FIRE,False
+test_datacluster_000813.jpg,1,0,0.999,0.013,FIRE,False
+test_datacluster_000857.jpg,1,0,0.955,0.418,FIRE + SMOKE,True
+test_datacluster_000919.jpg,1,0,0.994,0.032,FIRE,False
+test_datacluster_001103.jpg,0,1,0.093,0.961,SMOKE,False
+test_datacluster_001118.jpg,1,0,0.999,0.006,FIRE,False
+test_datacluster_001199.jpg,1,0,0.941,0.327,FIRE,True
+test_datacluster_001201.jpg,1,0,0.974,0.232,FIRE,True
+test_datacluster_001205.jpg,1,0,0.991,0.226,FIRE,False
+test_datacluster_001462.jpg,1,0,0.986,0.094,FIRE,False
+test_datacluster_001480.jpg,1,0,0.991,0.147,FIRE,False
+test_datacluster_001484.jpg,1,0,0.989,0.158,FIRE,False
+test_datacluster_001528.jpg,1,0,0.993,0.108,FIRE,False
+test_datacluster_001542.jpg,1,0,0.985,0.136,FIRE,False
+test_datacluster_001551.jpg,1,1,0.979,0.407,FIRE + SMOKE,True
+test_datacluster_001595.jpg,1,0,0.999,0.017,FIRE,False
+test_datacluster_001699.jpg,1,0,0.998,0.195,FIRE,False
+test_datacluster_001859.jpg,1,0,0.991,0.096,FIRE,False
+test_datacluster_002015.jpg,1,0,0.963,0.194,FIRE,False
+test_datacluster_002104.jpg,0,1,0.767,0.995,SMOKE,True
+test_datacluster_002109.jpg,1,1,0.79,1.0,FIRE + SMOKE,True
+train_datacluster_000054.jpg,1,0,0.963,0.181,FIRE,False
+train_datacluster_000061.jpg,1,0,0.997,0.063,FIRE,False
+train_datacluster_000062.jpg,1,0,0.994,0.139,FIRE,False
+train_datacluster_000066.jpg,1,0,0.997,0.064,FIRE,False
+train_datacluster_000068.jpg,1,0,0.996,0.006,FIRE,False
+train_datacluster_000075.jpg,1,0,0.996,0.006,FIRE,False
+train_datacluster_000086.jpg,1,0,0.982,0.221,FIRE,False
+train_datacluster_000112.jpg,1,0,0.986,0.026,FIRE,False
+train_datacluster_000128.jpg,1,0,0.996,0.078,FIRE,False
+train_datacluster_000132.jpg,1,0,0.849,0.201,FIRE,True
+train_datacluster_000139.jpg,0,1,0.617,0.721,SMOKE,False
+train_datacluster_000146.jpg,1,1,0.969,0.625,FIRE + SMOKE,False
+train_datacluster_000151.jpg,1,1,0.923,0.632,FIRE + SMOKE,False
+train_datacluster_000152.jpg,1,0,0.986,0.096,FIRE,False
+train_datacluster_000160.jpg,1,0,0.975,0.228,FIRE,False
+train_datacluster_000183.jpg,1,0,0.978,0.162,FIRE,False
+train_datacluster_000186.jpg,1,0,0.986,0.053,FIRE,False
+train_datacluster_000198.jpg,1,0,0.962,0.136,FIRE,False
+train_datacluster_000223.jpg,1,1,0.982,0.108,FIRE,False
+train_datacluster_000232.jpg,1,0,1.0,0.037,FIRE,False
+train_datacluster_000246.jpg,1,0,0.95,0.118,FIRE,False
+train_datacluster_000249.jpg,1,0,0.986,0.09,FIRE,False
+train_datacluster_000250.jpg,1,0,0.998,0.035,FIRE,False
+train_datacluster_000252.jpg,1,0,0.959,0.183,FIRE,False
+train_datacluster_000255.jpg,1,1,0.977,0.506,FIRE + SMOKE,False
+train_datacluster_000260.jpg,1,0,0.993,0.037,FIRE,False
+train_datacluster_000263.jpg,1,0,0.995,0.063,FIRE,False
+train_datacluster_000264.jpg,1,0,0.995,0.056,FIRE,False
+train_datacluster_000267.jpg,1,0,0.998,0.882,FIRE + SMOKE,False
+train_datacluster_000271.jpg,1,0,0.997,0.019,FIRE,False
+train_datacluster_000282.jpg,1,0,0.917,0.548,FIRE + SMOKE,False
+train_datacluster_000292.jpg,1,1,0.996,0.702,FIRE + SMOKE,False
+train_datacluster_000296.jpg,1,1,0.968,0.082,FIRE,False
+train_datacluster_000304.jpg,1,0,0.99,0.159,FIRE,False
+train_datacluster_000325.jpg,1,0,0.997,0.013,FIRE,False
+train_datacluster_000332.jpg,1,1,0.996,0.025,FIRE,False
+train_datacluster_000337.jpg,1,0,0.997,0.016,FIRE,False
+train_datacluster_000348.jpg,1,0,0.999,0.006,FIRE,False
+train_datacluster_000384.jpg,1,0,0.998,0.014,FIRE,False
+train_datacluster_000399.jpg,1,0,0.993,0.033,FIRE,False
+train_datacluster_000409.jpg,1,0,0.998,0.067,FIRE,False
+train_datacluster_000422.jpg,1,0,0.965,0.356,FIRE + SMOKE,True
+train_datacluster_000434.jpg,1,0,0.993,0.113,FIRE,False
+train_datacluster_000443.jpg,1,0,0.977,0.455,FIRE + SMOKE,False
+train_datacluster_000447.jpg,1,0,0.997,0.022,FIRE,False
+train_datacluster_000451.jpg,1,0,0.997,0.045,FIRE,False
+train_datacluster_000452.jpg,1,0,0.997,0.051,FIRE,False
+train_datacluster_000454.jpg,1,0,0.996,0.024,FIRE,False
+train_datacluster_000456.jpg,1,0,0.999,0.022,FIRE,False
+train_datacluster_000459.jpg,1,1,0.923,0.866,FIRE + SMOKE,False
+train_datacluster_000461.jpg,1,0,0.989,0.116,FIRE,False
+train_datacluster_000469.jpg,1,0,0.992,0.041,FIRE,False
+train_datacluster_000470.jpg,1,0,0.999,0.005,FIRE,False
+train_datacluster_000479.jpg,1,1,0.796,0.973,FIRE + SMOKE,True
+train_datacluster_000482.jpg,0,1,0.45,0.968,SMOKE,False
+train_datacluster_000496.jpg,1,0,0.994,0.071,FIRE,False
+train_datacluster_000500.jpg,1,0,0.926,0.141,FIRE,False
+train_datacluster_000529.jpg,1,0,0.945,0.064,FIRE,False
+train_datacluster_000530.jpg,1,0,0.983,0.048,FIRE,False
+train_datacluster_000531.jpg,1,0,0.985,0.06,FIRE,False
+train_datacluster_000537.jpg,1,0,0.997,0.016,FIRE,False
+train_datacluster_000549.jpg,1,0,0.977,0.108,FIRE,False
+train_datacluster_000550.jpg,1,0,0.998,0.015,FIRE,False
+train_datacluster_000554.jpg,1,0,1.0,0.212,FIRE,False
+train_datacluster_000555.jpg,1,0,1.0,0.006,FIRE,False
+train_datacluster_000557.jpg,1,0,1.0,0.004,FIRE,False
+train_datacluster_000562.jpg,1,0,0.999,0.025,FIRE,False
+train_datacluster_000576.jpg,1,0,0.989,0.153,FIRE,False
+train_datacluster_000590.jpg,0,1,0.077,0.992,SMOKE,False
+train_datacluster_000608.jpg,0,1,0.413,0.993,SMOKE,False
+train_datacluster_000620.jpg,1,0,0.993,0.011,FIRE,False
+train_datacluster_000623.jpg,1,0,0.991,0.282,FIRE,True
+train_datacluster_000632.jpg,1,0,0.988,0.039,FIRE,False
+train_datacluster_000636.jpg,1,0,0.997,0.005,FIRE,False
+train_datacluster_000639.jpg,1,0,0.998,0.023,FIRE,False
+train_datacluster_000640.jpg,1,0,0.979,0.041,FIRE,False
+train_datacluster_000644.jpg,1,0,0.992,0.12,FIRE,False
+train_datacluster_000651.jpg,1,0,0.998,0.007,FIRE,False
+train_datacluster_000654.jpg,1,0,0.999,0.005,FIRE,False
+train_datacluster_000661.jpg,1,0,0.998,0.011,FIRE,False
+train_datacluster_000667.jpg,1,0,0.997,0.004,FIRE,False
+train_datacluster_000683.jpg,1,0,0.807,0.762,FIRE + SMOKE,True
+train_datacluster_000684.jpg,1,0,0.826,0.668,FIRE + SMOKE,True
+train_datacluster_000697.jpg,1,0,0.999,0.065,FIRE,False
+train_datacluster_000705.jpg,1,0,0.998,0.018,FIRE,False
+train_datacluster_000728.jpg,1,1,0.428,0.983,SMOKE,False
+train_datacluster_000733.jpg,1,0,0.993,0.859,FIRE + SMOKE,False
+train_datacluster_000734.jpg,1,1,0.983,0.728,FIRE + SMOKE,False
+train_datacluster_000739.jpg,1,0,0.963,0.181,FIRE,False
+train_datacluster_000750.jpg,1,0,0.995,0.077,FIRE,False
+train_datacluster_000751.jpg,1,0,0.999,0.02,FIRE,False
+train_datacluster_000753.jpg,1,0,0.99,0.099,FIRE,False
+train_datacluster_000765.jpg,1,0,0.991,0.029,FIRE,False
+train_datacluster_000769.jpg,1,0,0.997,0.063,FIRE,False
+train_datacluster_000770.jpg,1,1,0.883,0.89,FIRE + SMOKE,False
+train_datacluster_000771.jpg,1,1,0.994,0.139,FIRE,False
+train_datacluster_000780.jpg,1,0,0.965,0.087,FIRE,False
+train_datacluster_000783.jpg,1,0,0.996,0.02,FIRE,False
+train_datacluster_000787.jpg,1,0,1.0,0.003,FIRE,False
+train_datacluster_000799.jpg,1,0,0.999,0.047,FIRE,False
+train_datacluster_000801.jpg,1,0,0.989,0.056,FIRE,False
+train_datacluster_000806.jpg,1,0,0.997,0.052,FIRE,False
+train_datacluster_000814.jpg,1,0,0.996,0.08,FIRE,False
+train_datacluster_000828.jpg,1,0,0.999,0.035,FIRE,False
+train_datacluster_000851.jpg,1,0,0.991,0.032,FIRE,False
+train_datacluster_000853.jpg,1,0,0.989,0.043,FIRE,False
+train_datacluster_000860.jpg,1,0,0.99,0.054,FIRE,False
+train_datacluster_000863.jpg,1,0,0.99,0.103,FIRE,False
+train_datacluster_000865.jpg,1,0,0.982,0.098,FIRE,False
+train_datacluster_000878.jpg,1,0,0.998,0.014,FIRE,False
+train_datacluster_000885.jpg,1,0,0.991,0.069,FIRE,False
+train_datacluster_000901.jpg,1,0,0.999,0.011,FIRE,False
+train_datacluster_000910.jpg,1,0,0.998,0.047,FIRE,False
+train_datacluster_000923.jpg,1,0,0.999,0.67,FIRE + SMOKE,False
+train_datacluster_000925.jpg,1,1,0.967,0.93,FIRE + SMOKE,False
+train_datacluster_000927.jpg,1,0,0.991,0.738,FIRE + SMOKE,False
+train_datacluster_000936.jpg,1,0,0.995,0.02,FIRE,False
+train_datacluster_000938.jpg,1,0,0.998,0.095,FIRE,False
+train_datacluster_000940.jpg,1,0,0.994,0.073,FIRE,False
+train_datacluster_000946.jpg,1,0,0.999,0.021,FIRE,False
+train_datacluster_000949.jpg,1,0,0.997,0.054,FIRE,False
+train_datacluster_000952.jpg,0,1,0.181,0.986,SMOKE,False
+train_datacluster_000959.jpg,1,1,0.853,0.983,FIRE + SMOKE,True
+train_datacluster_000963.jpg,1,1,0.702,0.982,SMOKE,True
+train_datacluster_000964.jpg,1,1,0.927,0.971,FIRE + SMOKE,False
+train_datacluster_000982.jpg,0,1,0.078,0.994,SMOKE,False
+train_datacluster_000992.jpg,1,0,0.959,0.06,FIRE,False
+train_datacluster_001001.jpg,1,0,0.997,0.038,FIRE,False
+train_datacluster_001010.jpg,1,0,0.999,0.008,FIRE,False
+train_datacluster_001013.jpg,0,1,0.049,0.999,SMOKE,False
+train_datacluster_001030.jpg,0,1,0.058,0.966,SMOKE,False
+train_datacluster_001035.jpg,0,1,0.106,0.98,SMOKE,False
+train_datacluster_001036.jpg,0,1,0.041,1.0,SMOKE,False
+train_datacluster_001046.jpg,1,0,1.0,0.005,FIRE,False
+train_datacluster_001052.jpg,0,1,0.117,0.948,SMOKE,False
+train_datacluster_001057.jpg,0,1,0.29,0.944,SMOKE,False
+train_datacluster_001060.jpg,0,1,0.177,0.991,SMOKE,False
+train_datacluster_001061.jpg,0,1,0.246,0.995,SMOKE,False
+train_datacluster_001068.jpg,0,1,0.081,0.984,SMOKE,False
+train_datacluster_001081.jpg,0,1,0.089,0.977,SMOKE,False
+train_datacluster_001086.jpg,0,1,0.24,0.908,SMOKE,False
+train_datacluster_001087.jpg,0,1,0.192,0.884,SMOKE,False
+train_datacluster_001091.jpg,0,1,0.248,0.871,SMOKE,False
+train_datacluster_001092.jpg,0,1,0.274,0.886,SMOKE,False
+train_datacluster_001093.jpg,0,1,0.231,0.892,SMOKE,False
+train_datacluster_001094.jpg,0,1,0.274,0.883,SMOKE,False
+train_datacluster_001097.jpg,0,1,0.502,0.751,SMOKE,False
+train_datacluster_001101.jpg,0,1,0.096,0.968,SMOKE,False
+train_datacluster_001102.jpg,0,1,0.093,0.961,SMOKE,False
+train_datacluster_001105.jpg,0,1,0.072,0.962,SMOKE,False
+train_datacluster_001113.jpg,1,0,0.998,0.007,FIRE,False
+train_datacluster_001146.jpg,1,1,0.981,0.65,FIRE + SMOKE,False
+train_datacluster_001147.jpg,1,1,0.992,0.572,FIRE + SMOKE,False
+train_datacluster_001150.jpg,1,1,0.997,0.049,FIRE,False
+train_datacluster_001185.jpg,1,0,0.993,0.078,FIRE,False
+train_datacluster_001186.jpg,1,0,0.988,0.077,FIRE,False
+train_datacluster_001190.jpg,1,0,0.99,0.113,FIRE,False
+train_datacluster_001191.jpg,1,0,0.991,0.084,FIRE,False
+train_datacluster_001195.jpg,1,0,0.978,0.189,FIRE,False
+train_datacluster_001197.jpg,1,0,0.983,0.102,FIRE,False
+train_datacluster_001202.jpg,1,0,0.986,0.137,FIRE,False
+train_datacluster_001208.jpg,1,0,0.998,0.025,FIRE,False
+train_datacluster_001217.jpg,1,0,0.974,0.125,FIRE,False
+train_datacluster_001230.jpg,1,0,0.996,0.089,FIRE,False
+train_datacluster_001231.jpg,1,0,0.998,0.057,FIRE,False
+train_datacluster_001241.jpg,1,0,0.996,0.029,FIRE,False
+train_datacluster_001244.jpg,1,0,0.992,0.054,FIRE,False
+train_datacluster_001256.jpg,0,1,0.107,0.97,SMOKE,False
+train_datacluster_001268.jpg,1,0,0.975,0.108,FIRE,False
+train_datacluster_001278.jpg,1,0,0.993,0.057,FIRE,False
+train_datacluster_001290.jpg,1,1,0.671,0.989,SMOKE,True
+train_datacluster_001348.jpg,0,1,0.196,0.982,SMOKE,False
+train_datacluster_001349.jpg,0,1,0.165,0.99,SMOKE,False
+train_datacluster_001366.jpg,1,0,0.997,0.037,FIRE,False
+train_datacluster_001371.jpg,1,0,0.992,0.314,FIRE,True
+train_datacluster_001374.jpg,1,0,0.998,0.054,FIRE,False
+train_datacluster_001383.jpg,1,0,0.999,0.018,FIRE,False
+train_datacluster_001385.jpg,1,0,0.999,0.011,FIRE,False
+train_datacluster_001390.jpg,1,0,0.971,0.137,FIRE,False
+train_datacluster_001402.jpg,0,1,0.113,0.997,SMOKE,False
+train_datacluster_001403.jpg,0,1,0.162,0.856,SMOKE,False
+train_datacluster_001422.jpg,1,0,0.845,0.325,FIRE,True
+train_datacluster_001425.jpg,1,1,0.968,0.579,FIRE + SMOKE,False
+train_datacluster_001441.jpg,1,0,0.983,0.222,FIRE,False
+train_datacluster_001444.jpg,1,0,0.977,0.201,FIRE,False
+train_datacluster_001446.jpg,1,0,0.966,0.322,FIRE,True
+train_datacluster_001454.jpg,1,1,0.676,0.819,SMOKE,True
+train_datacluster_001464.jpg,1,0,0.956,0.194,FIRE,False
+train_datacluster_001467.jpg,1,0,0.977,0.046,FIRE,False
+train_datacluster_001472.jpg,1,0,0.98,0.056,FIRE,False
+train_datacluster_001481.jpg,1,0,0.995,0.109,FIRE,False
+train_datacluster_001482.jpg,1,0,0.992,0.121,FIRE,False
+train_datacluster_001483.jpg,1,0,0.993,0.183,FIRE,False
+train_datacluster_001488.jpg,1,0,0.996,0.035,FIRE,False
+train_datacluster_001500.jpg,1,0,0.983,0.14,FIRE,False
+train_datacluster_001506.jpg,1,0,0.966,0.162,FIRE,False
+train_datacluster_001508.jpg,1,0,0.983,0.056,FIRE,False
+train_datacluster_001509.jpg,1,0,0.98,0.065,FIRE,False
+train_datacluster_001536.jpg,1,0,0.995,0.032,FIRE,False
+train_datacluster_001545.jpg,1,0,0.98,0.347,FIRE + SMOKE,True
+train_datacluster_001555.jpg,1,0,0.999,0.011,FIRE,False
+train_datacluster_001564.jpg,1,0,0.997,0.019,FIRE,False
+train_datacluster_001577.jpg,1,0,0.996,0.101,FIRE,False
+train_datacluster_001582.jpg,1,0,0.992,0.069,FIRE,False
+train_datacluster_001584.jpg,1,0,0.992,0.062,FIRE,False
+train_datacluster_001625.jpg,1,0,1.0,0.005,FIRE,False
+train_datacluster_001626.jpg,1,0,1.0,0.004,FIRE,False
+train_datacluster_001635.jpg,1,0,0.999,0.004,FIRE,False
+train_datacluster_001655.jpg,1,0,0.968,0.117,FIRE,False
+train_datacluster_001657.jpg,1,0,0.974,0.065,FIRE,False
+train_datacluster_001671.jpg,1,0,0.995,0.08,FIRE,False
+train_datacluster_001683.jpg,1,0,0.996,0.113,FIRE,False
+train_datacluster_001712.jpg,1,0,0.919,0.274,FIRE,True
+train_datacluster_001722.jpg,0,1,0.054,0.998,SMOKE,False
+train_datacluster_001724.jpg,0,1,0.06,0.991,SMOKE,False
+train_datacluster_001728.jpg,0,1,0.067,0.998,SMOKE,False
+train_datacluster_001738.jpg,1,1,0.814,0.996,FIRE + SMOKE,True
+train_datacluster_001739.jpg,0,1,0.069,0.994,SMOKE,False
+train_datacluster_001743.jpg,1,0,0.992,0.982,FIRE + SMOKE,False
+train_datacluster_001747.jpg,1,0,0.996,0.981,FIRE + SMOKE,False
+train_datacluster_001751.jpg,1,0,0.998,0.948,FIRE + SMOKE,False
+train_datacluster_001765.jpg,1,1,0.992,0.977,FIRE + SMOKE,False
+train_datacluster_001775.jpg,0,1,0.397,0.996,SMOKE,False
+train_datacluster_001777.jpg,0,1,0.168,0.996,SMOKE,False
+train_datacluster_001780.jpg,0,1,0.17,0.978,SMOKE,False
+train_datacluster_001782.jpg,0,1,0.235,0.979,SMOKE,False
+train_datacluster_001793.jpg,1,0,0.996,0.081,FIRE,False
+train_datacluster_001794.jpg,1,0,0.996,0.022,FIRE,False
+train_datacluster_001800.jpg,1,0,0.996,0.026,FIRE,False
+train_datacluster_001803.jpg,1,0,0.996,0.011,FIRE,False
+train_datacluster_001832.jpg,1,0,0.998,0.013,FIRE,False
+train_datacluster_001851.jpg,1,0,0.994,0.112,FIRE,False
+train_datacluster_001857.jpg,1,0,0.993,0.117,FIRE,False
+train_datacluster_001861.jpg,1,1,0.993,0.159,FIRE,False
+train_datacluster_001866.jpg,1,0,0.993,0.05,FIRE,False
+train_datacluster_001872.jpg,1,0,0.994,0.066,FIRE,False
+train_datacluster_001876.jpg,1,0,0.99,0.198,FIRE,False
+train_datacluster_001882.jpg,1,0,0.983,0.178,FIRE,False
+train_datacluster_001920.jpg,1,0,0.998,0.013,FIRE,False
+train_datacluster_001933.jpg,1,0,0.996,0.019,FIRE,False
+train_datacluster_001936.jpg,1,1,0.93,0.511,FIRE + SMOKE,False
+train_datacluster_001942.jpg,0,1,0.079,0.999,SMOKE,False
+train_datacluster_001949.jpg,0,1,0.11,0.929,SMOKE,False
+train_datacluster_001951.jpg,0,1,0.093,0.979,SMOKE,False
+train_datacluster_001965.jpg,1,0,0.938,0.377,FIRE + SMOKE,True
+train_datacluster_001967.jpg,1,0,0.828,0.224,FIRE,True
+train_datacluster_001994.jpg,0,1,0.099,1.0,SMOKE,False
+train_datacluster_002000.jpg,0,1,0.106,0.996,SMOKE,False
+train_datacluster_002013.jpg,1,0,0.993,0.109,FIRE,False
+train_datacluster_002014.jpg,1,0,0.979,0.175,FIRE,False
+train_datacluster_002017.jpg,1,1,0.995,0.173,FIRE,False
+train_datacluster_002024.jpg,1,0,0.962,0.145,FIRE,False
+train_datacluster_002031.jpg,1,0,0.981,0.205,FIRE,False
+train_datacluster_002034.jpg,1,0,0.975,0.08,FIRE,False
+train_datacluster_002046.jpg,0,1,0.053,1.0,SMOKE,False
+train_datacluster_002055.jpg,0,1,0.101,0.999,SMOKE,False
+train_datacluster_002092.jpg,1,1,0.91,0.83,FIRE + SMOKE,False
+train_datacluster_002099.jpg,0,1,0.716,0.999,SMOKE,True
+train_datacluster_002120.jpg,1,1,0.839,0.997,FIRE + SMOKE,True
+train_datacluster_002121.jpg,1,1,0.734,0.998,SMOKE,True
+val_datacluster_000002.jpg,1,0,0.995,0.02,FIRE,False
+val_datacluster_000003.jpg,1,0,0.994,0.024,FIRE,False
+val_datacluster_000004.jpg,1,0,0.997,0.022,FIRE,False
+val_datacluster_000005.jpg,1,0,0.99,0.039,FIRE,False
+val_datacluster_000006.jpg,1,0,0.994,0.028,FIRE,False
+val_datacluster_000007.jpg,1,0,0.99,0.044,FIRE,False
+val_datacluster_000008.jpg,1,0,0.995,0.026,FIRE,False
+val_datacluster_000009.jpg,1,0,0.992,0.037,FIRE,False
+val_datacluster_000010.jpg,1,0,0.991,0.043,FIRE,False
+val_datacluster_000011.jpg,1,0,0.989,0.057,FIRE,False
+val_datacluster_000025.jpg,1,1,0.953,0.989,FIRE + SMOKE,False
+val_datacluster_000026.jpg,1,1,0.952,0.978,FIRE + SMOKE,False
+val_datacluster_000033.jpg,0,1,0.231,0.997,SMOKE,False
+val_datacluster_000045.jpg,1,1,0.938,0.878,FIRE + SMOKE,False
+val_datacluster_000051.jpg,1,1,0.984,0.956,FIRE + SMOKE,False
+val_datacluster_000064.jpg,1,1,0.951,0.999,FIRE + SMOKE,False
+val_datacluster_000067.jpg,1,1,0.881,1.0,FIRE + SMOKE,False
+val_datacluster_000069.jpg,1,1,0.975,0.99,FIRE + SMOKE,False
+val_datacluster_000070.jpg,1,1,0.83,0.993,FIRE + SMOKE,True
+val_datacluster_000071.jpg,1,1,0.965,0.475,FIRE + SMOKE,False
+val_datacluster_000073.jpg,1,0,0.973,0.498,FIRE + SMOKE,False
+val_datacluster_000085.jpg,1,0,0.805,0.667,FIRE + SMOKE,True
+val_datacluster_000096.jpg,0,1,0.236,0.985,SMOKE,False
+val_datacluster_000099.jpg,0,1,0.154,0.999,SMOKE,False
+val_datacluster_000100.jpg,0,1,0.312,0.991,SMOKE,False
+val_datacluster_000103.jpg,0,1,0.679,0.902,SMOKE,True
+val_datacluster_000105.jpg,0,1,0.596,0.999,SMOKE,False
+val_datacluster_000120.jpg,1,1,0.977,0.996,FIRE + SMOKE,False
+val_datacluster_000123.jpg,1,1,0.957,0.999,FIRE + SMOKE,False
+val_datacluster_000124.jpg,1,1,0.975,1.0,FIRE + SMOKE,False
+val_datacluster_000150.jpg,1,1,0.987,0.463,FIRE + SMOKE,False
+val_datacluster_000151.jpg,1,0,0.983,0.937,FIRE + SMOKE,False
+val_datacluster_000155.jpg,1,1,0.877,0.995,FIRE + SMOKE,False
+val_datacluster_000160.jpg,1,1,0.966,0.308,FIRE,True
+val_datacluster_000169.jpg,1,1,0.984,0.999,FIRE + SMOKE,False
+val_datacluster_000176.jpg,0,1,0.342,0.997,SMOKE,False
+val_datacluster_000177.jpg,0,1,0.249,0.999,SMOKE,False
+val_datacluster_000185.jpg,1,0,0.951,0.179,FIRE,False
+val_datacluster_000188.jpg,1,1,0.969,0.682,FIRE + SMOKE,False
+val_datacluster_000189.jpg,1,0,0.96,0.67,FIRE + SMOKE,False
+val_datacluster_000190.jpg,1,1,0.966,0.869,FIRE + SMOKE,False
+val_datacluster_000191.jpg,1,1,0.942,0.841,FIRE + SMOKE,False
+val_datacluster_000192.jpg,1,1,0.913,0.8,FIRE + SMOKE,False
+val_datacluster_000193.jpg,1,1,0.897,0.821,FIRE + SMOKE,False
+val_datacluster_000199.jpg,0,1,0.289,0.957,SMOKE,False
+val_datacluster_000227.jpg,1,1,0.98,0.463,FIRE + SMOKE,False
+val_datacluster_000228.jpg,1,0,0.969,0.6,FIRE + SMOKE,False
+val_datacluster_000232.jpg,1,1,0.956,0.999,FIRE + SMOKE,False
+val_datacluster_000235.jpg,1,0,0.998,0.019,FIRE,False
+val_datacluster_000240.jpg,1,0,0.958,0.168,FIRE,False
+val_datacluster_000254.jpg,1,1,0.997,0.995,FIRE + SMOKE,False
+val_datacluster_000260.jpg,1,1,0.996,0.984,FIRE + SMOKE,False
+val_datacluster_000265.jpg,1,1,0.976,0.995,FIRE + SMOKE,False
+val_datacluster_000266.jpg,1,1,0.997,0.966,FIRE + SMOKE,False
+val_datacluster_000278.jpg,1,0,0.981,0.402,FIRE + SMOKE,True
+val_datacluster_000282.jpg,1,1,0.968,0.978,FIRE + SMOKE,False
+val_datacluster_000285.jpg,1,1,0.918,0.999,FIRE + SMOKE,False
+val_datacluster_000292.jpg,1,1,0.972,0.999,FIRE + SMOKE,False
+val_datacluster_000319.jpg,0,1,0.369,0.894,SMOKE,False
+val_datacluster_000326.jpg,1,1,0.985,0.985,FIRE + SMOKE,False
+val_datacluster_000360.jpg,1,1,0.941,0.98,FIRE + SMOKE,False
+val_datacluster_000382.jpg,1,0,0.925,0.327,FIRE,True
+val_datacluster_000391.jpg,1,0,0.987,0.189,FIRE,False
+val_datacluster_000393.jpg,0,1,0.337,0.976,SMOKE,False
+val_datacluster_000394.jpg,0,1,0.282,0.993,SMOKE,False
+val_datacluster_000400.jpg,0,1,0.519,1.0,SMOKE,False
+val_datacluster_000401.jpg,1,1,0.344,1.0,SMOKE,False
+val_datacluster_000408.jpg,1,0,0.987,0.636,FIRE + SMOKE,False
+val_datacluster_000410.jpg,1,1,0.98,0.41,FIRE + SMOKE,True
+val_datacluster_000416.jpg,1,1,0.895,0.943,FIRE + SMOKE,False
+val_datacluster_000423.jpg,0,1,0.472,0.906,SMOKE,False
+val_datacluster_000435.jpg,1,0,0.925,0.953,FIRE + SMOKE,False

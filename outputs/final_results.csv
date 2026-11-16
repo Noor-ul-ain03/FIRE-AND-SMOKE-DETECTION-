@@ -1,0 +1,7 @@
+model,val_mean_auc,test_mean_auc,test_fire_auc,test_smoke_auc,thr_fire,thr_smoke,test_fire_recall,test_fire_precision,test_smoke_recall,test_smoke_precision,test_macro_f1
+ens_resnet18+efficientnet_b0,0.975,0.98,0.998,0.963,0.77,0.33,0.98,1.0,0.939,0.844,0.939
+ens_resnet18+efficientnet_b0+classical_best,0.972,0.979,0.998,0.96,0.8,0.29,0.976,0.993,0.947,0.839,0.937
+resnet18,0.968,0.978,0.994,0.961,0.79,0.23,0.987,0.993,0.909,0.845,0.933
+efficientnet_b0,0.965,0.968,0.989,0.947,0.6,0.5,0.98,0.98,0.902,0.826,0.921
+classical_best,0.929,0.937,0.965,0.91,0.27,0.25,0.993,0.946,0.758,0.794,0.872
+cnn_scratch,0.802,0.803,0.852,0.754,0.29,0.47,0.997,0.825,0.583,0.542,0.732

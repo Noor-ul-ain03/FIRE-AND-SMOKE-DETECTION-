@@ -1,0 +1,10 @@
+file,reason
+train/images/datacluster_000037.jpg,unreadable: image file is truncated (34 bytes not processed)
+train/images/datacluster_000111.jpg,unreadable: image file is truncated (15 bytes not processed)
+train/images/datacluster_001527.jpg,no_boxes
+train/images/datacluster_001636.jpg,no_boxes
+val/images/datacluster_000098.jpg,unreadable: cannot identify image file <_io.BytesIO object at 0x00000225A1CB7330>
+val/images/datacluster_000396.jpg,unreadable: broken data stream when reading image file
+val/images/datacluster_000397.jpg,unreadable: cannot identify image file <_io.BytesIO object at 0x00000225A1F79490>
+val/images/datacluster_000398.jpg,unreadable: cannot identify image file <_io.BytesIO object at 0x00000225A1F78C70>
+val/images/datacluster_000399.jpg,unreadable: cannot identify image file <_io.BytesIO object at 0x00000225A1F78220>

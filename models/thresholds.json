@@ -1,0 +1,9 @@
+{
+  "model": "ens_resnet18+efficientnet_b0",
+  "members": [
+    "resnet18",
+    "efficientnet_b0"
+  ],
+  "fire": 0.7699999999999999,
+  "smoke": 0.32999999999999996
+}

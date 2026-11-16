@@ -1,0 +1,7 @@
+file,p_fire,p_smoke,decision,needs_human_check
+test images\a lit lamp.jpg,0.902,0.167,FIRE,False
+test images\fire and smoke together.jpg,0.814,0.956,FIRE + SMOKE,True
+test images\fire1.png.jpg,0.979,0.101,FIRE,False
+test images\fog.jpg,0.356,0.972,SMOKE,False
+test images\room.jpg,0.692,0.282,NONE DETECTED,True
+test images\sunset.jpg,0.942,0.216,FIRE,False
