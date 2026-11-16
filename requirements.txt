@@ -1,0 +1,15 @@
+# Python 3.11. Install with:  pip install -r requirements.txt
+# Versions are the ones installed on the author's laptop when the results were produced.
+numpy==2.4.6
+pandas==3.1.0
+scipy==1.17.1
+scikit-learn==1.9.1
+joblib==1.6.0
+pillow==13.0.0
+ImageHash==4.3.2
+tqdm==4.70.1
+torch==2.14.1
+torchvision==0.29.2
+matplotlib
+# Optional: only for the browser interface src/app_gradio.py
+# gradio
