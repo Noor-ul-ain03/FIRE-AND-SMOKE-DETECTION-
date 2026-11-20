@@ -1,7 +1,7 @@
 # Fire and Smoke Detection from Images (CT-361 CCA)
 
 Classifies a photograph with two independent yes/no answers: **is fire visible?** and **is smoke visible?**
-Both can be yes at the same time. Author: Huzaifa (CT-24066), NED University of Engineering and Technology.
+Both can be yes at the same time. Author: (CT-24066), NED University of Engineering and Technology.
 
 ## What is in this project
 
